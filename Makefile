@@ -33,10 +33,10 @@ BUILDUSER ?= $(shell id -un)
 BUILDTIME ?= $(shell date '+%Y%m%d-%H:%M:%S')
 
 .PHONY:  build build-main build-darwin-amd64 build-linux-amd64 build-windows-amd64 clean dep
-.PHONY: subdirs $(DIRS)
-DIRS = $(notdir $(patsubst %/,%,$(dir $(wildcard ./cmd/*/.))))
 PSEP = $(strip $(SEP))
 nullstring :=
+TARGET := cmd
+
 space := $(nullstring) #End
 .PHONY: sample-files take-snapshot deploy
 sample-files: clean build-main
