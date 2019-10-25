@@ -13,8 +13,8 @@ import (
 
 	"github.com/palantir/stacktrace"
 
-	"github.com/damoonazarpazhooh/chunker/internal/jsonutil"
-	utils "github.com/damoonazarpazhooh/chunker/pkg/utils"
+	"github.com/damoonazarpazhooh/File-Ingestion/internal/jsonutil"
+	utils "github.com/damoonazarpazhooh/File-Ingestion/pkg/utils"
 	"github.com/urfave/cli"
 )
 

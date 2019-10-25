@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 
 	splitter "github.com/damoonazarpazhooh/chunker"
-	"github.com/damoonazarpazhooh/chunker/internal/uuid"
-	utils "github.com/damoonazarpazhooh/chunker/pkg/utils"
+	"github.com/damoonazarpazhooh/File-Ingestion/internal/uuid"
+	utils "github.com/damoonazarpazhooh/File-Ingestion/pkg/utils"
 	osext "github.com/kardianos/osext"
 	"github.com/urfave/cli"
 )

@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/damoonazarpazhooh/chunker/pkg/utils"
+	"github.com/damoonazarpazhooh/File-Ingestion/pkg/utils"
 	"github.com/mitchellh/hashstructure"
 	"github.com/palantir/stacktrace"
 )

@@ -3,7 +3,7 @@ package chunker
 import (
 	"path/filepath"
 
-	"github.com/damoonazarpazhooh/chunker/pkg/utils"
+	"github.com/damoonazarpazhooh/File-Ingestion/pkg/utils"
 	"github.com/kardianos/osext"
 	"github.com/palantir/stacktrace"
 )

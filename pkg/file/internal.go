@@ -10,9 +10,9 @@ import (
 	"sort"
 	"strings"
 
-	// "github.com/damoonazarpazhooh/chunker/pkg/iosecure/decryptor"
+	// "github.com/damoonazarpazhooh/File-Ingestion/pkg/iosecure/decryptor"
 
-	utils "github.com/damoonazarpazhooh/chunker/pkg/utils"
+	utils "github.com/damoonazarpazhooh/File-Ingestion/pkg/utils"
 
 	"github.com/palantir/stacktrace"
 )

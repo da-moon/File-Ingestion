@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	commands "github.com/damoonazarpazhooh/chunker/cmd/commands"
+	commands "github.com/damoonazarpazhooh/File-Ingestion/cmd/commands"
 	"github.com/urfave/cli"
 )
 

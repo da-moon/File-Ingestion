@@ -8,7 +8,7 @@ import (
 	"time"
 
 	// Storage "github.com/bifrostcloud/bifrost/internal/yggdrasil/engine"
-	permitpool "github.com/damoonazarpazhooh/chunker/internal/permitpool"
+	permitpool "github.com/damoonazarpazhooh/File-Ingestion/internal/permitpool"
 	"github.com/kardianos/osext"
 	"github.com/mitchellh/colorstring"
 	"github.com/palantir/stacktrace"
