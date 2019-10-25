@@ -1,4 +1,4 @@
-module github.com/damoonazarpazhooh/chunker
+module github.com/damoonazarpazhooh/File-Ingestion
 
 go 1.12
 

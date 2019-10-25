@@ -5,7 +5,7 @@ import (
 	"log"
 	"path/filepath"
 
-	splitter "github.com/damoonazarpazhooh/chunker"
+	splitter "github.com/damoonazarpazhooh/File-Ingestion"
 	"github.com/damoonazarpazhooh/File-Ingestion/internal/uuid"
 	utils "github.com/damoonazarpazhooh/File-Ingestion/pkg/utils"
 	osext "github.com/kardianos/osext"
